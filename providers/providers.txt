@@ -360,6 +360,11 @@ eoscene       Eoscene Corporation
 		arean.vanveelen
 		at eoscene.com
 
+epel          Extra Packages for Enterprise Linux
+                Stephen Smoogen
+                smooge
+                at redhat.com
+
 eprinsa       EPRINSA Empresa Provincial de Informatica S.A.
 		mcasti
 		at eprinsa.es
