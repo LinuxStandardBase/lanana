@@ -38,29 +38,24 @@ The LSB provider name assigned by LANANA must only consist of the ASCII characte
 <A HREF="CHANGELOG">CHANGELOG</A>
 </UL>
 
-To obtain new LSB Provider name assignments, first read these <A HREF="../instructions.html">instructions</A> and then submit your completed request (do not use HTML email format) to the current LSB registrar:
+To obtain a new LSB Provider name assignment, submit your request according to these <A HREF="../instructions.html">instructions</A>. In case of problems, contact the the LSB registrar:
 <P>
-<TABLE WIDTH=100%>
-<TR>
-<TD>Jeff Licquia, Linux Foundation
-<TD><TT>lsb @ lanana.org</TT>
-</TABLE>
 
-<P>
-<table bgcolor="#606060" cols="2" width="100%" border="0">
+<table width=100%>
 <tr>
-<td align=left width="66%">
-<FONT SIZE=-1 color="#FFFFFF">
-This web page is hosted by <A HREF="http://www.kernel.org/"><font color="#FFFFFF">The Linux Kernel Archives</font></A>.
-</FONT>
-</td>
-<td align=right width="33%">
-<FONT SIZE=-1 color="#FFFFFF">
-Last Modified: @MOD_DATE@
-</FONT>
-</td>
-<tr>
+<td>Jeff Licquia, Linux Foundation</td>
+<td><tt>lsb @ lanana.org</tt></td>
+</tr>
 </table>
 
-</BODY>
-</HTML>
+<br>
+<table summary="credits" bgcolor="#606060" cols="2" width="100%" border="0">
+<tr>
+<td align="left" width="66%" class="c8">This web page is hosted by the
+<a href="http://www.linuxfoundation.org/">Linux Foundation</a></td>
+<td align="right" width="33%" class="c8">
+Site Last Modified: @MOD_DATE@</td>
+</tr>
+
+</body>
+</html>
