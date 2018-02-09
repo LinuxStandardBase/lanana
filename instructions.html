@@ -23,22 +23,24 @@
    </h3>
     <h2>LSB Registry Application Instructions</h2>
   </div>
-  <p>We prefer to track all namespace management actions publicly.
-  Please set up an account and file a new bug at: <a href=
+  <p>Namespace management requests and actions are tracked in a public bugtracker.
+  To apply for a new reservation, or request a change to an existing one over
+  which you have control, please file a new bug at: <a href=
   "https://lsbbugs.linuxfoundation.org/">https://lsbbugs.linuxfoundation.org/</a>,
-  using Product: LANANA and Component: "/opt/ namespace assignment"</p>
+  using Product: LANANA and Component: "/opt/ namespace assignment". Note you
+  will need to create a bugzilla account here if you don't already have one.
+  </p>
   <p>When applying for a name in LSB namespaces for Init Scripts,
   Cron Scripts, Package Names or Provider Names, please
   perform the following steps for faster action on a submission:</p>
   <ol>
-    <li><b>Check LANANA's web pages to see if the name you wish to
-    reserve is still available.</b></li>
-    <li>
-      It speeds the review process when the bug filing also
-      contains the following information:
+    <li>Check LANANA's web pages to see if the name you wish to
+    reserve is still available.</li>
+    <li>Check if there is a pending registration listed in the bugtracker.</li>
+    <li>Include the following information in your request:
       <ul>
-        <li>Your Name</li>
-        <li>Your Email Address</li>
+        <li>Your name</li>
+        <li>An Email contact address</li>
         <li>Name of the Entity (company, organization, etc.) you
         represent</li>
         <li>Name of the Application or Project needing a reserved
@@ -46,24 +48,38 @@
         <li>Project Website (if there is one).</li>
         <li>Suggested reserved names and from which namespace
         (init|cron|package|provider) desired.</li>
-        <li>For the case of reserving init script namespace(s),
-        please include a description of each init script's purpose.
-        Example:
-          <pre>
-foobar - start/stop the foobard daemon
-          </pre>
-        </li>
+        <li>Any other notes that would help processing the application.</li>
       </ul>
     </li>
   </ol>
-  <p>Some of this is suggested by the email account used to file a
-  bug, but, there are obvious ways that exceptions may occur.
-  Please help and remove ambiguity. We will try and respond to your
-  request in a timely fashion. If there is a need for intervention,
-  please send such a request to the <a href=
+
+  <p>Notes:</p>
+  <ul>
+    <li>It is preferred if the email address is a persistent name, humans
+        do leave the organizations they represent and the current LANANA
+        data already have quite a few non-working contact emails. Thus, the
+        style <i>lanana-admin@example.com</i>, set to deliver to the person
+        submitting the request or other current contact, but able to be 
+        changed later without contacting LANANA, is a good idea.  </li>
+    <li>For the case of reserving init script namespace(s),
+        please include a description of each init script's purpose.
+        Example:
+            <pre>
+foobar - start/stop the foobard daemon
+            </pre>
+    </li>
+    <li>Please try to anticipate what might be ambiguous to the registry
+        team, and use the notes to explain.  The team will ask for more
+        information in the bugreport if needed, but it's quicker if there
+        doesn't have to be a lot of back-and-forth.</li>
+  </ul>
+
+  <p> The team will try and respond to your
+  request in a timely fashion. If nothing seems to be happening,
+  a ping can go to the <a href=
   "http://lists.linuxfoundation.org/pipermail/lsb-discuss/">LSB mailing list</a>,
-  or consult the last monthly email
-  at that archive for alternative points of contact.</p>
+  though comments/questions in the bug report will certainly be seen.</p>
+
   <table class="c5" cols="2" width="100%" border="0">
     <tr>
       <td align="left"><span class="c4">This web page is hosted by
