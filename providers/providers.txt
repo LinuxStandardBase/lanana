@@ -1239,8 +1239,6 @@ wirelessz     WirelessZ Technologies Ltd.
 wn            Wincor Nixdorf International GmbH
 		bjoern.gerhart
 		at wincor-nixdorf.com
-		niels.devos
-		at wincor-nixdorf.com
 
 wso2          WSO2 Inc.
 		sanjayak
