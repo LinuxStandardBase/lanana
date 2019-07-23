@@ -773,6 +773,7 @@ nokia         Nokia Linux Project
                 at nokia.com
 
 nokiasiemensnetworks          Nokia Siemens Networks
+                                https://www.nokia.com/networks/
 				janne.siren
 				at nsn.com
 
@@ -791,6 +792,12 @@ nr            Bivio Networks
 nz            Netezza Corp
 		pds
 		at us.ibm.com
+
+oath           Oath, Inc. (Verizon Media)
+                 https://www.oath.com/
+                 Quentin Barnes
+                 qbarnes
+                 at verizonmedia.com
 
 objectweb     ObjectWeb Consortium
 		lsb
@@ -1210,6 +1217,12 @@ vvrtspg       Info-Electronics Systems Inc.
 		bernard
 		at info-electronics.com
 
+vz             Verizon, Inc.
+                 https://www.verizon.com/
+                 Quentin Barnes
+                 qbarnes
+                 at verizonmedia.com
+ 
 wandisco      WANdisco
 		http://www.wandisco.com
 		Ben Brown
@@ -1252,10 +1265,10 @@ xisp          Barnhard LLC
 		lanana-contact
 		at xisp.net
 
-yahoo         Yahoo! Inc.
-		Sven Dummer
-		sdummer
-		at yahoo-inc.com
+yahoo         Yahoo! Inc. (Verizon Media)
+		Quentin Barnes
+		lanana-contact
+                at verizonmedia.com
 
 yottabyte     Yottabyte LLC
 		All Interop Technology Software
