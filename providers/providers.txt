@@ -594,6 +594,10 @@ lcg           CERN
 lemon         Lemon Computing limited
 		cnw at lemon-computing.com
 
+lenovo        Lenovo
+		mpearson
+		at lenovo.com
+
 lifekeeper    SteelEye Technology, Inc.
 		support
 		at steeleye.com

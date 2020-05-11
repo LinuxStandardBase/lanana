@@ -76,6 +76,7 @@ lsb-ivman         Rohan McGovern                            rohan@mcgovern.id.au
 lsb-ixc-connectgate Lymeware Corporation                    cfox@lymeware.com
 lsb-keep          Concentrico, Inc.                         skirkby@concentrico.net
 lsb-lcg           CERN	                                    fotis@cern.ch
+lsb-lenovo        Lenovo                                    mpearson@lenovo.com
 lsb-leeuwenhoek   Objective Pathology Systems               kemp@extelligence.net
 lsb-libelvin      Elvin Project http://elvin.dstc.edu.au/   davida@pobox.com
 lsb-lsf           Platform Computing                        billm@platform.com
