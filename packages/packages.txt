@@ -141,6 +141,7 @@ lsb-rob           LEICON di Serenella Saccon                roberto.taglioretti@
 lsb-scobrand      The SCO Group (Caldera Systems Inc.)      linuxtech@sco.com
 lsb-scolinux      The SCO Group (Caldera Systems Inc.)      linuxtech@sco.com
 lsb-securetransport Tumbleweed Communications Corp.         mattl@tumbleweed.com
+lsb-setmyinfo     Hear And See Systems LLC                  imre.tabur@eesti.ee
 lsb-skinsight     Objective Pathology Systems               kemp@extelligence.net
 lsb-slayfire      Slayfire Software Co. LLC                 hank@slayfire.com			
 lsb-smallfoot     The SCO Group (Caldera Systems Inc.)      smallfoot@sco.com
