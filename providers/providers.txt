@@ -1018,6 +1018,10 @@ semantico     Semantico Ltd.
 		lanana
 		at semantico.com
 
+setmy.info    Hear And See Systems LLC
+		imre.tabur
+		at eesti.ee
+
 shiman        Shiman Associates, Inc.
 		leon
 		at magic.shiman.com
