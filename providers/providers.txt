@@ -797,11 +797,11 @@ nz            Netezza Corp
 		pds
 		at us.ibm.com
 
-oath           Oath, Inc. (Verizon Media)
+oath           Oath, Inc. (Yahoo Inc.)
                  https://www.oath.com/
-                 Quentin Barnes
-                 qbarnes
-                 at verizonmedia.com
+                 David Marshall
+                 lanana-contact
+                 at yahooinc.com
 
 objectweb     ObjectWeb Consortium
 		lsb
@@ -1227,10 +1227,10 @@ vvrtspg       Info-Electronics Systems Inc.
 
 vz             Verizon, Inc.
                  https://www.verizon.com/
-                 Quentin Barnes
-                 qbarnes
-                 at verizonmedia.com
- 
+                 David Marshall
+                 lanana-contact
+                 at yahooinc.com
+
 wandisco      WANdisco
 		http://www.wandisco.com
 		Ben Brown
@@ -1273,10 +1273,10 @@ xisp          Barnhard LLC
 		lanana-contact
 		at xisp.net
 
-yahoo         Yahoo! Inc. (Verizon Media)
-		Quentin Barnes
+yahoo         Yahoo Inc.
+		David Marshall
 		lanana-contact
-                at verizonmedia.com
+		at yahooinc.com
 
 yottabyte     Yottabyte LLC
 		All Interop Technology Software
