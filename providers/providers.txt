@@ -551,6 +551,12 @@ isarnet       IsarNet Software Solutions GmbH
 		harald.weikert
 		at isarnet.de
 
+isci          Idaho Scientific
+                https://idahoscientific.com
+                Doug Springer
+                purchasing
+                at idahoscientific.com
+
 isl           Imagineer Systems Ltd.
 		wouterk
 		at imagineersystems.com
